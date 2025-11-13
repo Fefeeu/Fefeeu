@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Olá, que bom te ver por aqui! 👋
 
-Eu sou [Seu Nome Completo ou Como Gosta de Ser Chamado(a)]. Um prazer te-lo aqui.
+Eu sou Felipe Ferreira, mas pode me chamar de **Fefe**, mio que todo mundo me chama assim. Um prazer te-lo aqui.
 
 ## 🌟 Sobre mim
 Sou [estudante/desenvolvedor(a)], uma pessoa genuinamente fascinada pelo universo dos dados e apaixonado por matemática aplicada, estatística e probabilidade.
