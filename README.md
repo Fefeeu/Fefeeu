@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 ### Olá, que bom te ver por aqui! 👋
 
-Eu sou Felipe Ferreira, mas pode me chamar de **Fefe**, meio que todo mundo me chama assim. Um prazer ter você aqui.
+Eu sou Felipe Ferreira, mas pode me chamar de **Fefe**, todo mundo me chama assim. Um prazer ter você aqui.
 
 ## 🌟 Sobre mim
-Sou [estudante/desenvolvedor(a)], uma pessoa genuinamente fascinada pelo universo dos dados e apaixonado por matemática aplicada, estatística e probabilidade.
+Sou estudante e desenvolvedor do Inatel, fascinado pelo universo dos dados e apaixonado por matemática aplicada, estatística e probabilidade.
 
 Meu grande objetivo de carreira possui um grande foco em Ciência de Dados e Machine Learning.
 
-As linguagens que mais me acompanham nessa jornada são:
+As linguagens que mais me acompanham até agora:
 
 ![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Fefeeu&layout=compact&theme=nightowl&hide_border=True&hide=Jupyter%20Notebook)
 
@@ -38,7 +38,7 @@ As linguagens que mais me acompanham nessa jornada são:
 
 ## 📚 Formação
 
-Atualmente, estou [cursando/me formando em] **[Nome do seu Curso, ex: Ciência da Computação]** na **[Nome da Sua Universidade ou Instituição]**.
+Atualmente, estou cursando **Engenharia de Software** no **Inatel**.
 
 ---
 
